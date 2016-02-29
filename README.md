@@ -2,7 +2,7 @@
 
 ### Current class members
  * @brandonjp
- * @maicole
+ * @maicole (Michael O'Connell)
 
 Not much to see here yet, but I'll start by adding PDFs of the slides. 
 
